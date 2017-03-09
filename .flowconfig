@@ -1,0 +1,5 @@
+[libs]
+declerations
+
+[options]
+module.system=node
