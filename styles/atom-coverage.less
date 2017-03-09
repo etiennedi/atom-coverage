@@ -7,10 +7,30 @@
 .atom-coverage {
 }
 
-.uncovered .region{
-  background-color: rgba(255, 0, 0, 0.15);
+.theme-atom-light-syntax,
+.theme-one-light-syntax,
+.theme-solarized-light-syntax,
+.theme-base16-tomorrow-light-theme
+ {
+  .uncovered .region{
+    background-color: rgba(255, 0, 0, 0.15);
+  }
+
+  .covered .region{
+    background-color: rgba(0, 255, 0, 0.05);
+  }
 }
 
-.covered .region{
-  background-color: rgba(0, 255, 0, 0.15);
+.theme-atom-dark-syntax,
+.theme-one-dark-syntax,
+.theme-solarized-dark-syntax,
+.theme-base16-tomorrow-dark-theme{
+  .uncovered .region{
+    background-color: rgba(255, 125, 50, 0.35);
+  }
+
+  .covered .region{
+    background-color: rgba(125, 255, 125, 0.10);
+  }
+
 }
