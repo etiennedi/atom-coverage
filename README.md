@@ -1,5 +1,5 @@
 # atom-coverage
-> Inline coverage for atom (based on instanbul)
+> Inline coverage for atom (based on istanbul)
 
 !["atom-coverage in action"](atom-coverage-screenshot.png)
 
