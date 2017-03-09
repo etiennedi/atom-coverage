@@ -1,7 +1,9 @@
 {
+    "parser": "babel-eslint",
     "extends": "airbnb-base",
     "plugins": [
-        "import"
+        "import",
+        "flowtype"
     ],
     "globals": {
       "atom": true
