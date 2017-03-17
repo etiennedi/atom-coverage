@@ -39,5 +39,10 @@
       "default": "coverage/coverage-final.json",
       "order": 1
     }
+  },
+  "jest" : {
+    "globals": {
+      "atom": {}
+    }
   }
 }
