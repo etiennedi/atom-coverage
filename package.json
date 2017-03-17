@@ -41,8 +41,6 @@
     }
   },
   "jest" : {
-    "globals": {
-      "atom": {}
-    }
+    "setupTestFrameworkScriptFile": "<rootDir>/jest.setup.js"
   }
 }
