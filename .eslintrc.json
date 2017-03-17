@@ -8,10 +8,14 @@
     "globals": {
       "atom": true
     },
+    "env" : {
+      "jest" : true
+    },
     "rules": {
       "import/extensions": 0,
       "import/no-unresolved": 0,
       "import/no-extraneous-dependencies": 0,
-      "import/prefer-default-export": 0
+      "import/prefer-default-export": 0,
+      "no-shadow": 0
     }
 }
