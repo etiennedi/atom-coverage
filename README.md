@@ -14,9 +14,10 @@ Order in no way guaranteed, just what comes to mind right now:
 
 - [x] add support for statement coverage
 - [x] add ability to toggle on/off
+- [ ] add unit tests
+- [ ] release 0.1.0
 - [ ] add support for branch coverage
 - [ ] add support for function coverage
-- [ ] add tests
-- [ ] release 0.1.0
 - [ ] mark hits (calls) in gutter
 - [ ] show overall coverage percentage for file somewhere
+- [ ] add integration/component/e2e (?) tests
