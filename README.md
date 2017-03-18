@@ -13,7 +13,7 @@ Then make sure settings path to coverage.json points to your coverage.json file 
 Order in no way guaranteed, just what comes to mind right now:
 
 - [x] add support for statement coverage
-- [ ] add ability to toggle on/off
+- [x] add ability to toggle on/off
 - [ ] add support for branch coverage
 - [ ] add support for function coverage
 - [ ] add tests
